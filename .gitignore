@@ -4,3 +4,16 @@
 *.jar
 *.war
 *.ear
+
+/chatbot-js/wechaty-deprecated/
+
+/chatbot-py/.venv/
+
+__pycache__/
+*.pyc
+
+node_modules/
+
+/chatbot-py/.vs/
+
+/chatbot-py/server/.env
